@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Hérica Ferreira
-💻Estudando back-end com JavaScritp
+💻Estudando Engenharia de Computação no IFMG 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="osryeerica" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
